@@ -1,0 +1,9 @@
+famous_person = Dak Prescott
+is_active = false
+famous_person = Ezekiel Elliot
+num_3 = 10
+num_9 = 20
+sum = num_3 + num_9
+animals = ["bear", "owl", "fish"]
+animals.slice! "bear"
+famous_person.length
