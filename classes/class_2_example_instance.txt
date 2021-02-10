@@ -1,0 +1,15 @@
+Instance: Turing School's Cafeteria
+
+attributes:
+
+-menu = ["Pizza", "Tacos", "Pho"]
+-is_open = true
+-current_capacity = 145
+-color = red
+
+methods:
+
+-change_menu: menu = ["Sandwiches", "Pasta", "Gyro"]
+-is_closed: is_open = false
+-expand_cafeteria: current capacity = 205
+-paint_cafeteria: color = blue
