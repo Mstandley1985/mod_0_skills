@@ -1,0 +1,15 @@
+Instance: Mitch's Class Room
+
+attributes:
+
+-number_of_desks = 30
+-student_names = ["Mitch", "Greg", "Joleen", "Sarah"]
+-in_session = false
+-instructor = Margo
+
+methods:
+
+-remove_desk: number_of_desks = 29
+-expel_student: student_names = ["Mitch", "Greg", "Sarah"]
+-end_school_year: in_session = false
+-change_instructor: instructor = Ellen
