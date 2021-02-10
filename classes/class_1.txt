@@ -1,0 +1,15 @@
+Class: Class room
+
+attributes:
+
+-number_of_desks (integer)
+-student_names (array)
+-in_session (boolean)
+-instructor (string)
+
+methods:
+
+-remove_desk (lowers the value in number_of_desks)
+-expel_student (removes a name from student_names)
+-end_school_year (changes the value of in_session to false)
+-change_instructor (changes the value of instructor)
