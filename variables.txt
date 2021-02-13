@@ -1,9 +1,9 @@
-famous_person = Dak Prescott
+famous_person = "Dak Prescott"
 is_active = false
-famous_person = Ezekiel Elliot
+famous_person = "Ezekiel Elliot"
 num_3 = 10
 num_9 = 20
 sum = num_3 + num_9
 animals = ["bear", "owl", "fish"]
-animals.slice! "bear"
+animals = animals[0].split
 famous_person.length
