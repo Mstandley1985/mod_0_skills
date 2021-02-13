@@ -10,6 +10,6 @@ attributes:
 methods:
 
 -change_menu: menu = ["Sandwiches", "Pasta", "Gyro"]
--is_closed: is_open = false
+-close_cafeteria: is_open = false
 -expand_cafeteria: current capacity = 205
 -paint_cafeteria: color = "blue"
