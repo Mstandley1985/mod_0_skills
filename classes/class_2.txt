@@ -10,6 +10,6 @@ attributes:
 methods:
 
 -change_menu (changes items on menu)
--is_closed (updates is_open to false)
+-close_cafeteria (updates is_open to false)
 -expand_cafeteria (increases the value of current_capacity)
 -paint_cafeteria (changes color value)
